@@ -1,0 +1,89 @@
+.newsletter-section {
+    background-color: #3cb0b0;
+    color: white;
+    padding: 30px;
+    text-align: center;
+  }
+  
+  .subscription-header {
+    margin-bottom: 20px;
+  }
+  
+  .subscription-header h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .subscription-header form {
+    display: inline-flex;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .subscription-header input[type="email"] {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .subscription-header button {
+    padding: 10px 20px;
+    background-color: #ff9900;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .subscription-header button:hover {
+    background-color: #e68900;
+  }
+  
+  .footer-links {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+  }
+  
+  .footer-column {
+    text-align: left;
+  }
+  
+  .footer-column h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-column ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-column ul li {
+    margin: 5px 0;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 10px;
+    font-size: 24px;
+  }
+  
+  .footer-bottom {
+    margin-top: 20px;
+  }
+  
+  .footer-bottom p {
+    font-weight: bold;
+  }
+  
+  .footer-bottom ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 0;
+    margin: 10px 0 0 0;
+  }
+  
